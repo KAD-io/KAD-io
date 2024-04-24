@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in automated software testing in Python
 - 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on ...
